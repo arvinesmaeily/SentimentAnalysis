@@ -1,0 +1,3 @@
+1. Download data file from this link: https://www.kaggle.com/kazanova/sentiment140/download
+2. Rename downloaded file to "Raw_DataFile.csv" and move it to source code directory
+3. Run "Execute.py" in source code directory
